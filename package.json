@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "serverless-offline": "^12.0.4"
+  },
+  "name": "padawan-api",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "dependencies": {
+    "@middy/core": "^4.5.3",
+    "bcrypt": "^5.1.0",
+    "mongoose": "^7.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
